@@ -4,6 +4,7 @@
   "description": "Experiments with end-to-end web development",
   "main": "index.js",
   "scripts": {
+    "dev": "next dev",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Heitor Pavani Nolla",

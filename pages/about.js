@@ -5,7 +5,7 @@ export default function About() {
     <div>
       <p>About page</p>
       <p>
-        Go to <Link href="index.js">Home</Link>
+        Go to <Link href="/">Home</Link>
       </p>
     </div>
   );
